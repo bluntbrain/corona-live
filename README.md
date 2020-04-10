@@ -4,8 +4,8 @@ Made this app in 2 days, using Java, Android Studio and jSoup library for scrapi
 
 
 
-![sc 1](1.jpg)
-![sc 2](2.jpg)
+![sc 1](1.jpg = 720×1280)
+![sc 2](2.jpg = 720×1280)
 ![sc 3](3.jpg)
 ![sc 4](4.jpg)
 
